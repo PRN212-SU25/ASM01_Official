@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GROUP04DataAccess/1.0.0": {
+        "runtime": {
+          "GROUP04DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GROUP04DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

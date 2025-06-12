@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GROUP04WPF/1.0.0": {
+        "dependencies": {
+          "GROUP04DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "GROUP04WPF.dll": {}
+        }
+      },
+      "GROUP04DataAccess/1.0.0": {
+        "runtime": {
+          "GROUP04DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GROUP04WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GROUP04DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

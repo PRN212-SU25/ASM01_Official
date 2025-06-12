@@ -1,0 +1,36 @@
+﻿<Window x:Class="GROUP04WPF.Views.RoomManagementView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Room Management" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <TextBox Text="{Binding SearchKeyword, UpdateSourceTrigger=PropertyChanged}" Width="200" Margin="0,0,10,0" />
+            <Button Content="Add Room" Command="{Binding AddCommand}" Margin="0,0,10,0" />
+        </StackPanel>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding Rooms}" SelectedItem="{Binding SelectedRoom}" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding RoomID}" />
+                <DataGridTextColumn Header="Room Number" Binding="{Binding RoomNumber}" />
+                <DataGridTextColumn Header="Description" Binding="{Binding RoomDetailDescription}" />
+                <DataGridTextColumn Header="Max Capacity" Binding="{Binding RoomMaxCapacity}" />
+                <DataGridTextColumn Header="Room Type ID" Binding="{Binding RoomTypeID}" />
+                <DataGridTextColumn Header="Status" Binding="{Binding RoomStatus}" />
+                <DataGridTextColumn Header="Price Per Day" Binding="{Binding RoomPricePerDay}" />
+                <DataGridTemplateColumn Header="Actions">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Edit" Command="{Binding DataContext.UpdateCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}" Margin="5,0" />
+                                <Button Content="Delete" Command="{Binding DataContext.DeleteCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}" Margin="5,0" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
