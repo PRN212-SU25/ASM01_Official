@@ -86,3 +86,4 @@ E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04WPF\obj\Debug\net8.0-wind
 E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04WPF\obj\Debug\net8.0-windows\GROUP04WPF.pdb
 E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04WPF\obj\Debug\net8.0-windows\GROUP04WPF.genruntimeconfig.cache
 E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04WPF\obj\Debug\net8.0-windows\ref\GROUP04WPF.dll
+E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04WPF\obj\Debug\net8.0-windows\GROUP04WPF.sourcelink.json

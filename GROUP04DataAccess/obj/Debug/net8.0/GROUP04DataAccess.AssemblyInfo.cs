@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GROUP04DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88989a37bc1c634217b25918d2ca68bb596ef854")]
 [assembly: System.Reflection.AssemblyProductAttribute("GROUP04DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GROUP04DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

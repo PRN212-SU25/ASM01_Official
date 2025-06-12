@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{D9708EE6-8BA4-4AA4-98CE-5C7561096947}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9708EE6-8BA4-4AA4-98CE-5C7561096947}|GROUP04WPF\\GROUP04WPF.csproj|e:\\fptu\\s5\\prn212\\assignment\\group04_se1845_a01\\group04wpf\\views\\adminmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9708EE6-8BA4-4AA4-98CE-5C7561096947}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\views\\adminmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9708EE6-8BA4-4AA4-98CE-5C7561096947}|GROUP04WPF\\GROUP04WPF.csproj|e:\\fptu\\s5\\prn212\\assignment\\group04_se1845_a01\\group04wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9708EE6-8BA4-4AA4-98CE-5C7561096947}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|e:\\fptu\\s5\\prn212\\assignment\\group04_se1845_a01\\group04dataaccess\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|solutionrelative:group04dataaccess\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9708EE6-8BA4-4AA4-98CE-5C7561096947}|GROUP04WPF\\GROUP04WPF.csproj|e:\\fptu\\s5\\prn212\\assignment\\group04_se1845_a01\\group04wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -58,10 +66,6 @@
       "RelativeMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|solutionrelative:group04dataaccess\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|e:\\fptu\\s5\\prn212\\assignment\\group04_se1845_a01\\group04dataaccess\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|solutionrelative:group04dataaccess\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|e:\\fptu\\s5\\prn212\\assignment\\group04_se1845_a01\\group04dataaccess\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E54A5D89-7DD4-4576-9C25-D20FC1F0B3B5}|GROUP04DataAccess\\GROUP04DataAccess.csproj|solutionrelative:group04dataaccess\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,19 +109,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AdminMainWindow.xaml",
+              "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\AdminMainWindow.xaml",
+              "RelativeDocumentMoniker": "GROUP04WPF\\Views\\AdminMainWindow.xaml",
+              "ToolTip": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\AdminMainWindow.xaml*",
+              "RelativeToolTip": "GROUP04WPF\\Views\\AdminMainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T10:41:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\Views\\LoginView.xaml.cs",
               "ToolTip": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\LoginView.xaml.cs",
               "RelativeToolTip": "GROUP04WPF\\Views\\LoginView.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T07:47:13.83Z"
+              "WhenOpened": "2025-06-12T07:47:13.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -125,15 +142,15 @@
               "Title": "LoginView.xaml",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "GROUP04WPF\\Views\\LoginView.xaml",
-              "ToolTip": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\LoginView.xaml*",
-              "RelativeToolTip": "GROUP04WPF\\Views\\LoginView.xaml*",
+              "ToolTip": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "GROUP04WPF\\Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-12T07:45:33.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\App.xaml",
               "RelativeDocumentMoniker": "GROUP04WPF\\App.xaml",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\ViewModels\\LoginViewModel.cs",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomerManagementViewModel.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\ViewModels\\CustomerManagementViewModel.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\ViewModels\\CustomerManagementViewModel.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CustomerMainViewModel.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\ViewModels\\CustomerMainViewModel.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\ViewModels\\CustomerMainViewModel.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GROUP04WPF.csproj",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\GROUP04WPF.csproj",
               "RelativeDocumentMoniker": "GROUP04WPF\\GROUP04WPF.csproj",
@@ -193,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BookingHistoryViewModel.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\ViewModels\\BookingHistoryViewModel.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\ViewModels\\BookingHistoryViewModel.cs",
@@ -205,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AdminMainViewModel.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\ViewModels\\AdminMainViewModel.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\ViewModels\\AdminMainViewModel.cs",
@@ -217,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\Helpers\\RelayCommand.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\Helpers\\RelayCommand.cs",
@@ -229,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "GROUP04WPF\\MainWindow.xaml",
@@ -240,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "GROUP04WPF\\MainWindow.xaml.cs",
@@ -252,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
               "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
@@ -263,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "RoomTypeRepository.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Repositories\\RoomTypeRepository.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Repositories\\RoomTypeRepository.cs",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "RoomRepository.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Repositories\\RoomRepository.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Repositories\\RoomRepository.cs",
@@ -283,11 +300,12 @@
               "RelativeToolTip": "GROUP04DataAccess\\Repositories\\RoomRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T07:31:57.791Z"
+              "WhenOpened": "2025-06-12T07:31:57.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Repositories\\CustomerRepository.cs",
@@ -299,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BookingReservationRepository.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Repositories\\BookingReservationRepository.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Repositories\\BookingReservationRepository.cs",
@@ -311,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BookingDetailRepository.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Repositories\\BookingDetailRepository.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Repositories\\BookingDetailRepository.cs",
@@ -323,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "RoomType.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Models\\RoomType.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Models\\RoomType.cs",
@@ -335,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RoomInformation.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Models\\RoomInformation.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Models\\RoomInformation.cs",
@@ -347,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Models\\Customer.cs",
@@ -359,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "BookingReservation.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Models\\BookingReservation.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Models\\BookingReservation.cs",
@@ -371,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Properties\\AssemblyInfo.cs",
@@ -383,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BookingDetail.cs",
               "DocumentMoniker": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_SE1845_A01\\GROUP04DataAccess\\Models\\BookingDetail.cs",
               "RelativeDocumentMoniker": "GROUP04DataAccess\\Models\\BookingDetail.cs",

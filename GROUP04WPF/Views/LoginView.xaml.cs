@@ -36,5 +36,9 @@ namespace GROUP04WPF.Views
                 togglePasswordButton.Content = "👁"; // Đổi icon sang hiện
             }
         }
+        private void btnExit_Click(object sender, RoutedEventArgs e)
+        {            
+            this.Close();
+        }
     }
 }

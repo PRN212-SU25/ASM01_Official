@@ -20,3 +20,4 @@ E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04DataAccess\obj\Debug\net8
 E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04DataAccess\obj\Debug\net8.0\refint\GROUP04DataAccess.dll
 E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04DataAccess\obj\Debug\net8.0\GROUP04DataAccess.pdb
 E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04DataAccess\obj\Debug\net8.0\ref\GROUP04DataAccess.dll
+E:\FPTU\s5\PRN212\Assignment\GROUP04_SE1845_A01\GROUP04DataAccess\obj\Debug\net8.0\GROUP04DataAccess.sourcelink.json
