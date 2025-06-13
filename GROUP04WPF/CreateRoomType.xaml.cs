@@ -14,16 +14,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
-    /// Interaction logic for CreateType.xaml
+    /// Interaction logic for CreateRoomType.xaml
     /// </summary>
-    public partial class CreateType : Window
+    public partial class CreateRoomType : Window
     {
         private readonly IRoomTypeRepositories _roomTypeRepositories;
 
-        public CreateType()
+        public CreateRoomType()
         {
             InitializeComponent();
             _roomTypeRepositories = new RoomTypeRepositories();
@@ -32,7 +32,7 @@ namespace FUMiniHotelManagement
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
             var result = _roomTypeRepositories.GetRoomTypeByName(txtTypeName.Text);
-            if(result == null)
+            if (result == null)
             {
                 var roomType = new RoomType
                 {

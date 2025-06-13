@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
     /// Interaction logic for CreateInfor.xaml
@@ -58,7 +58,7 @@ namespace FUMiniHotelManagement
                 RoomStatus = 1,
                 RoomPricePerDay = decimal.Parse(txtRoomPricePerDay.Text),
             };
-            if(infor != null )
+            if (infor != null)
             {
                 _bookingInformationRepositories.CreateRoomInformation(infor);
                 MessageBox.Show("Create room information successfully!");

@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
     /// Interaction logic for ChangeCustomer.xaml
@@ -22,13 +22,11 @@ namespace FUMiniHotelManagement
     public partial class ChangeCustomer : Window
     {
         private readonly ICustomersRepositories _customersRepositories;
-
         public ChangeCustomer()
         {
             InitializeComponent();
             _customersRepositories = new CustomerRepository();
         }
-
         private void SearchButton_Click(object sender, RoutedEventArgs e)
         {
             var customerId = int.Parse(txtSearchId.Text);
@@ -64,7 +62,7 @@ namespace FUMiniHotelManagement
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
             var confirm = MessageBox.Show("Are you sure you want to delete this customer?", "Confirmation", MessageBoxButton.YesNo, MessageBoxImage.Question);
-            if(confirm == MessageBoxResult.Yes)
+            if (confirm == MessageBoxResult.Yes)
             {
                 var customerId = int.Parse(txtSearchId.Text);
                 _customersRepositories.DeleteCustomer(customerId);
@@ -84,7 +82,7 @@ namespace FUMiniHotelManagement
 
             var customerId = int.Parse(txtSearchId.Text);
             var result = _customersRepositories.GetCustomerById(customerId);
-            if(result != null)
+            if (result != null)
             {
                 result.CustomerFullName = txtFullName.Text;
                 result.Telephone = txtTelephone.Text;

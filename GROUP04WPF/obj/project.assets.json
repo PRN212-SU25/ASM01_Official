@@ -3164,11 +3164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\GROUP04WPF.csproj",
+      "projectUniqueName": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\GROUP04WPF\\GROUP04WPF.csproj",
       "projectName": "GROUP04WPF",
-      "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\GROUP04WPF.csproj",
+      "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\GROUP04WPF\\GROUP04WPF.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\obj\\",
+      "outputPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\GROUP04WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3189,11 +3189,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj"
+            "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj"
+            "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\Repositories.csproj": {
+              "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\Repositories.csproj"
             }
           }
         }

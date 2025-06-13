@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BietpslpB4w=",
+  "dgSpecHash": "UwTdE+mdny0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\GROUP04WPF.csproj",
+  "projectFilePath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\GROUP04WPF\\GROUP04WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

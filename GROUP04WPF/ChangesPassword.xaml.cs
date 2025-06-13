@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
     /// Interaction logic for ChangesPassword.xaml
@@ -32,7 +32,7 @@ namespace FUMiniHotelManagement
         private void btnChangePassword_Click(object sender, RoutedEventArgs e)
         {
             var customer = _customerRepository.GetCustomerByEmail(email);
-            if(customer.Password != txtCurrentPassword.Text)
+            if (customer.Password != txtCurrentPassword.Text)
             {
                 MessageBox.Show("Incorrect password! Please try again.");
             }

@@ -1,12 +1,23 @@
-﻿using BusinessObjects;
-using Repositories;
+﻿using Repositories;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
+using System.Windows.Documents;
 using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
+    /// <summary>
+    /// Interaction logic for AdminWindow.xaml
+    /// </summary>
     public partial class AdminWindow : Window
     {
         private readonly ICustomersRepositories _customersRepositories;
@@ -14,7 +25,6 @@ namespace FUMiniHotelManagement
         private readonly IBookingInformationRepositories _bookingInformationRepositories;
         private readonly IBookingReservationRepositories _bookingReservationRepositories;
         private readonly IRoomTypeRepositories _roomTypeRepositories;
-
         public AdminWindow()
         {
             InitializeComponent();
@@ -25,7 +35,6 @@ namespace FUMiniHotelManagement
             _roomTypeRepositories = new RoomTypeRepositories();
             _bookingInformationRepositories.UpdateExpiredReservations();
         }
-
         private string curTextBlock;
 
         private void RoomInformation_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
@@ -113,7 +122,7 @@ namespace FUMiniHotelManagement
                     break;
 
                 case "Type":
-                    CreateType createType = new CreateType();
+                    CreateRoomType createType = new CreateRoomType();
                     createType.Show();
                     break;
 
@@ -130,7 +139,7 @@ namespace FUMiniHotelManagement
                 //case "Detail":
                 //    break;
 
-                default: 
+                default:
                     break;
             }
         }
@@ -145,7 +154,7 @@ namespace FUMiniHotelManagement
                     break;
 
                 case "Type":
-                    ChangeType changeType = new ChangeType();
+                    ChangeRoomType changeType = new ChangeRoomType();
                     changeType.Show();
                     break;
 
@@ -165,6 +174,12 @@ namespace FUMiniHotelManagement
                 default:
                     break;
             }
+        }
+        private void btnLogout_Click(object sender, RoutedEventArgs e)
+        {
+            LoginWindow loginWindow = new LoginWindow();
+            loginWindow.Show();
+            Close();
         }
     }
 }

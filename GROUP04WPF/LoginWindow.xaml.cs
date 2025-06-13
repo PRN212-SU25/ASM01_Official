@@ -1,26 +1,34 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Repositories;
+using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
     /// Interaction logic for LoginWindow.xaml
     /// </summary>
     public partial class LoginWindow : Window
     {
-
         private readonly ICustomersRepositories _customerRepository;
-
         public LoginWindow()
         {
             InitializeComponent();
             _customerRepository = new CustomerRepository();
         }
-
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
             string email = txtUser.Text.Trim();
@@ -45,7 +53,7 @@ namespace FUMiniHotelManagement
 
             if (customer != null && customer.Password == password)
             {
-                if(customer.CustomerStatus == 1)
+                if (customer.CustomerStatus == 1)
                 {
                     Application.Current.Resources["email"] = txtUser.Text;
                     CustomerWindow customerWindow = new CustomerWindow();
@@ -103,7 +111,7 @@ namespace FUMiniHotelManagement
         {
             RegisterWindow registerWindow = new RegisterWindow();
             registerWindow.Show();
-            Close ();
+            Close();
         }
     }
 }

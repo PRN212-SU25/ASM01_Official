@@ -93,7 +93,7 @@ namespace FUMiniHotelManagement {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GROUP04WPF;component/createtype.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GROUP04WPF;V1.0.0.0;component/createtype.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CreateType.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

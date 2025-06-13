@@ -1,5 +1,4 @@
 ﻿using BusinessObjects;
-using Microsoft.IdentityModel.Tokens;
 using Repositories;
 using System;
 using System.Collections.Generic;
@@ -16,7 +15,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
     /// Interaction logic for RegisterWindow.xaml

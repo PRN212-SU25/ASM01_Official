@@ -1,18 +1,18 @@
 ﻿
 
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\AdminWindow.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\BookingWindow.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\ChangeCustomer.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\ChangeInfor.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\ChangeReservation.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\ChangesPassword.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\ChangeType.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\CreateCustomer.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\CreateInfor.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\CreateReservation.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\CreateType.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\CustomerWindow.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\LoginWindow.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\MainWindow.xaml;;
-FC:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\RegisterWindow.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\AdminWindow.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\BookingWindow.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\ChangeCustomer.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\ChangeInfor.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\ChangeReservation.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\LoginWindow.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\MainWindow.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\ChangeRoomType.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\ChangesPassword.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\CreateCustomer.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\CreateInfor.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\CreateReservation.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\CreateRoomType.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\CustomerWindow.xaml;;
+FE:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\RegisterWindow.xaml;;
 

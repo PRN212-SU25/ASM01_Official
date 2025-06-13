@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj": {}
+    "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj": {
+    "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\obj\\",
+        "outputPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\DataAccessObjects\\DataAccessObjects.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\obj\\",
+        "outputPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj"
+              "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj": {
+    "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj",
+        "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\obj\\",
+        "outputPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -206,11 +206,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BusinessObjects.csproj"
+              "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\DataAccessObjects.csproj"
+              "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\DataAccessObjects\\DataAccessObjects.csproj"
               }
             }
           }

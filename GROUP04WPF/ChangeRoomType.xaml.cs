@@ -13,16 +13,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
-    /// Interaction logic for ChangeType.xaml
+    /// Interaction logic for ChangeRoomType.xaml
     /// </summary>
-    public partial class ChangeType : Window
+    public partial class ChangeRoomType : Window
     {
         private readonly IRoomTypeRepositories _roomTypeRepositories;
 
-        public ChangeType()
+        public ChangeRoomType()
         {
             InitializeComponent();
             _roomTypeRepositories = new RoomTypeRepositories();
@@ -57,7 +57,7 @@ namespace FUMiniHotelManagement
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
             var confirm = MessageBox.Show("Are you sure you want to delete this room type?", "Confirmation", MessageBoxButton.YesNo, MessageBoxImage.Question);
-            if(confirm == MessageBoxResult.Yes)
+            if (confirm == MessageBoxResult.Yes)
             {
                 var typeId = int.Parse(txtSearchId.Text);
                 _roomTypeRepositories.DeleteRoomType(typeId);
@@ -70,7 +70,7 @@ namespace FUMiniHotelManagement
         {
             var typeId = int.Parse(txtSearchId.Text);
             var result = _roomTypeRepositories.GetRoomTypeById(typeId);
-            if(result != null)
+            if (result != null)
             {
                 result.RoomTypeName = txtRoomTypeName.Text;
                 result.TypeDescription = txtTypeDescription.Text;

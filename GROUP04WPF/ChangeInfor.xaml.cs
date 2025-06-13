@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FUMiniHotelManagement
+namespace GROUP04WPF
 {
     /// <summary>
     /// Interaction logic for ChangeInfor.xaml
@@ -37,7 +37,7 @@ namespace FUMiniHotelManagement
         {
             var inforId = int.Parse(txtSearchId.Text);
             var result = _bookingInformationRepositories.GetRoomInformation(inforId);
-            if(result != null)
+            if (result != null)
             {
                 txtRoomNumber.Text = result.RoomNumber;
                 txtRoomDetailDescription.Text = result.RoomDetailDescription;
@@ -82,7 +82,7 @@ namespace FUMiniHotelManagement
         {
             var inforId = int.Parse(txtSearchId.Text);
             var result = _bookingInformationRepositories.GetRoomInformation(inforId);
-            if(result != null)
+            if (result != null)
             {
                 result.RoomNumber = txtRoomNumber.Text;
                 result.RoomDetailDescription = txtRoomDetailDescription.Text;
@@ -98,7 +98,7 @@ namespace FUMiniHotelManagement
             {
                 MessageBox.Show("Update room information failed!");
             }
-        } 
+        }
 
         private void loadRoomType()
         {
