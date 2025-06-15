@@ -1,0 +1,35 @@
+﻿GROUP04WPF
+1.0.0.0
+
+winexe
+C#
+.cs
+<<<<<<< HEAD
+E:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\obj\Debug\net8.0-windows\
+=======
+C:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\obj\Debug\net8.0-windows\
+>>>>>>> 4270bab (dự phòng)
+GROUP04WPF
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+<<<<<<< HEAD
+E:\FPTU\s5\PRN212\Assignment\GROUP04_ASM01_duphong\GROUP04WPF\App.xaml
+15352023062
+
+20959049212
+237-1661362562
+AdminWindow.xaml;BookingWindow.xaml;ChangeCustomer.xaml;ChangeInfor.xaml;ChangeReservation.xaml;ChangeRoomType.xaml;ChangesPassword.xaml;CreateCustomer.xaml;CreateInfor.xaml;CreateReservation.xaml;CreateRoomType.xaml;CustomerWindow.xaml;LoginWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;
+
+False
+=======
+C:\Users\HP\Desktop\dotnet\GROUP04_ASM01\GROUP04WPF\App.xaml
+15-230839561
+
+20-1361715650
+237-1936861516
+AdminWindow.xaml;BookingWindow.xaml;ChangeCustomer.xaml;ChangeInfor.xaml;ChangeReservation.xaml;ChangesPassword.xaml;ChangeType.xaml;CreateCustomer.xaml;CreateInfor.xaml;CreateReservation.xaml;CreateType.xaml;CustomerWindow.xaml;LoginWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;
+
+True
+>>>>>>> 4270bab (dự phòng)
+

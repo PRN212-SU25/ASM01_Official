@@ -1,0 +1,775 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "E:\\FPTU\\s5\\PRN212\\Assignment\\GROUP04_ASM01_duphong\\",
+  "Documents": [],
+=======
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\businessobjects\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\changereservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\changereservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\group04wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\group04wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\createreservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\createreservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\createtype.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\createtype.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\createcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\createcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\createinfor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\createinfor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\changetype.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\changetype.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\roomtyperepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomtyperepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\iroomtyperepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroomtyperepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\icustomersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icustomersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\ibookingreservationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ibookingreservationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\ibookinginformationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ibookinginformationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\ibookingdetailrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ibookingdetailrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\customersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\bookingreservationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingreservationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\bookinginformationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookinginformationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\bookingdetailrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingdetailrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\icustomersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\icustomersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\ibookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\ibookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\ibookinginformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\ibookinginformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\ibookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\ibookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\customersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\customersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\bookinginformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\bookinginformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3026EA5-736C-43D6-956D-92918B0CC90F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\dataaccessobjects\\iroomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA2C70-B731-4EC0-B42A-FEA52829853E}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\iroomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84A9197F-BE48-4832-A055-60D4D57D23AA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|c:\\users\\hp\\desktop\\dotnet\\group04_asm01\\group04wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8914EA5-FD52-4FC7-9AA2-3549A14C2B79}|GROUP04WPF\\GROUP04WPF.csproj|solutionrelative:group04wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 4270bab (dự phòng)
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\appsettings.json",
+              "RelativeDocumentMoniker": "GROUP04WPF\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\appsettings.json",
+              "RelativeToolTip": "GROUP04WPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T16:47:41.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GROUP04WPF",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\GROUP04WPF.csproj",
+              "RelativeDocumentMoniker": "GROUP04WPF\\GROUP04WPF.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\GROUP04WPF.csproj",
+              "RelativeToolTip": "GROUP04WPF\\GROUP04WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T16:45:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\App.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:43:24.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateReservation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateReservation.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\CreateReservation.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateReservation.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\CreateReservation.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:39:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateType.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateType.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\CreateType.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateType.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\CreateType.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:39:21.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCustomer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\CreateCustomer.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateCustomer.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\CreateCustomer.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:39:16.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateInfor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateInfor.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\CreateInfor.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CreateInfor.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\CreateInfor.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:39:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\BookingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\BookingWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:38:57.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangeType.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\ChangeType.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\ChangeType.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\ChangeType.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\ChangeType.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:33:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:33:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:33:28.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeReservation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\ChangeReservation.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\ChangeReservation.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\ChangeReservation.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\ChangeReservation.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:31:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:58:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\RoomTypeDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\RoomTypeDAO.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:53:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRoomTypeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IRoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\IRoomTypeDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IRoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\IRoomTypeDAO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICustomersDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\ICustomersDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ICustomersDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\ICustomersDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\ICustomersDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IBookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\IBookingReservationDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IBookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\IBookingReservationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:41.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBookingInformationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IBookingInformationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\IBookingInformationDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IBookingInformationDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\IBookingInformationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBookingDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IBookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\IBookingDetailDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\IBookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\IBookingDetailDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomersDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\CustomersDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\CustomersDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\CustomersDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\CustomersDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\BookingReservationDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\BookingReservationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:51:57.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingInformationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\BookingInformationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\BookingInformationDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\BookingInformationDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\BookingInformationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:51:35.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\BookingDetailDAO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\DataAccessObjects\\BookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\BookingDetailDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:50:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:50:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:50:00.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\FuminiHotelManagementContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "BusinessObjects\\FuminiHotelManagementContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:49:07.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:49:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:48:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:48:45.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Repositories",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T15:44:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomTypeRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\RoomTypeRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomTypeRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\RoomTypeRepositories.cs",
+              "RelativeToolTip": "Repositories\\RoomTypeRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:47:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRoomTypeRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IRoomTypeRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRoomTypeRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IRoomTypeRepositories.cs",
+              "RelativeToolTip": "Repositories\\IRoomTypeRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:47:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomersRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\ICustomersRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomersRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\ICustomersRepositories.cs",
+              "RelativeToolTip": "Repositories\\ICustomersRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:47:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookingReservationRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IBookingReservationRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookingReservationRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IBookingReservationRepositories.cs",
+              "RelativeToolTip": "Repositories\\IBookingReservationRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookingInformationRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IBookingInformationRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookingInformationRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IBookingInformationRepositories.cs",
+              "RelativeToolTip": "Repositories\\IBookingInformationRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:51.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookingDetailRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IBookingDetailRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookingDetailRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\IBookingDetailRepositories.cs",
+              "RelativeToolTip": "Repositories\\IBookingDetailRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomersRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\CustomersRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomersRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\CustomersRepositories.cs",
+              "RelativeToolTip": "Repositories\\CustomersRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:34.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingInformationRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\BookingInformationRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingInformationRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\BookingInformationRepositories.cs",
+              "RelativeToolTip": "Repositories\\BookingInformationRepositories.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingDetailRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\BookingDetailRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingDetailRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\BookingDetailRepositories.cs",
+              "RelativeToolTip": "Repositories\\BookingDetailRepositories.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingReservationRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\BookingReservationRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingReservationRepositories.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\Repositories\\BookingReservationRepositories.cs",
+              "RelativeToolTip": "Repositories\\BookingReservationRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:46:08.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:44:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\App.xaml",
+              "RelativeDocumentMoniker": "GROUP04WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\App.xaml",
+              "RelativeToolTip": "GROUP04WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T15:43:26.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GROUP04WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\MainWindow.xaml",
+              "RelativeToolTip": "GROUP04WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T15:41:33.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GROUP04WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dotnet\\GROUP04_ASM01\\GROUP04WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GROUP04WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:41:32.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+>>>>>>> 4270bab (dự phòng)
+    }
+  ]
+}
