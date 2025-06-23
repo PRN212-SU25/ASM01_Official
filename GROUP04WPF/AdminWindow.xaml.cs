@@ -32,7 +32,7 @@ namespace FUMiniHotelManagement
 >>>>>>> 4270bab (dự phòng)
     public partial class AdminWindow : Window
     {
-        private readonly ICustomersRepositories _customersRepositories;
+        private readonly ICustomersRepositories _customersRepositories_ahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihiahihi;
         private readonly IBookingDetailRepositories _bookingDetailRepositories;
         private readonly IBookingInformationRepositories _bookingInformationRepositories;
         private readonly IBookingReservationRepositories _bookingReservationRepositories;
