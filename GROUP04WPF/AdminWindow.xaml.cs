@@ -214,6 +214,552 @@ namespace FUMiniHotelManagement
                     break;
             }
         }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
+        private void btn_Create_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    CreateInfor createInfor = new CreateInfor();
+                    createInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    CreateRoomType createType = new CreateRoomType();
+=======
+                    CreateType createType = new CreateType();
+>>>>>>> 4270bab (dự phòng)
+                    createType.Show();
+                    break;
+
+                case "Customer":
+                    CreateCustomer customer = new CreateCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    CreateReservation reservation = new CreateReservation();
+                    reservation.Show();
+                    break;
+<<<<<<< HEAD
+                default:
+=======
+
+                //case "Detail":
+                //    break;
+
+                default: 
+>>>>>>> 4270bab (dự phòng)
+                    break;
+            }
+        }
+
+        private void btn_Change_Click(object sender, RoutedEventArgs e)
+        {
+            switch (curTextBlock)
+            {
+                case "Infor":
+                    ChangeInfor changeInfor = new ChangeInfor();
+                    changeInfor.Show();
+                    break;
+
+                case "Type":
+<<<<<<< HEAD
+                    ChangeRoomType changeType = new ChangeRoomType();
+=======
+                    ChangeType changeType = new ChangeType();
+>>>>>>> 4270bab (dự phòng)
+                    changeType.Show();
+                    break;
+
+                case "Customer":
+                    ChangeCustomer customer = new ChangeCustomer();
+                    customer.Show();
+                    break;
+
+                case "Reservation":
+                    ChangeReservation reservation = new ChangeReservation();
+                    reservation.Show();
+                    break;
+
+<<<<<<< HEAD
+=======
+                //case "Detail":
+                //    break;
+
+>>>>>>> 4270bab (dự phòng)
+                default:
+                    break;
+            }
+        }
 <<<<<<< HEAD
         private void btnLogout_Click(object sender, RoutedEventArgs e)
         {
