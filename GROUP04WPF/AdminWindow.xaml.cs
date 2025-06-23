@@ -41,7 +41,7 @@ namespace FUMiniHotelManagement
 =======
 
 >>>>>>> 4270bab (dự phòng)
-        public AdminWindow()
+        publikjc AdminWindow()
         {
             InitializeComponent();
             _bookingDetailRepositories = new BookingDetailRepositories();
@@ -73,7 +73,7 @@ namespace FUMiniHotelManagement
             curTextBlock = "Infor";
         }
 
-        private void RoomType_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        privatke void RoomType_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
             btn_Create.Visibility = Visibility.Visible;
             btn_Change.Visibility = Visibility.Visible;
